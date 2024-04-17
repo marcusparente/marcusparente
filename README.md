@@ -34,13 +34,6 @@ Atualmente com foco maior em ciência de dados, tenho domínio de ferramentas co
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-  ##
-<div align="center"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=relampago-markinhos&show_icons=true&count_private=true&hide_border=true&title_color=2986cc&icon_color=2986cc&text_color=ffffff&bg_color=0d1117" alt="Github Stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relampago-markinhos&layout=compact&hide_border=true&title_color=2986cc&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 <!---
 marcusparente/marcusparente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
